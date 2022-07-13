@@ -1,0 +1,1 @@
+{"container_overrides": {"command": ["--module_name", "goqc", "--run_arguments", "s3://hubseq-data/modules/goqc/job/goqc.test.job.json", "--working_dir", "/home/"]}, "jobqueue": "batch_scratch_queue", "jobname": "job_goqc_test"}
